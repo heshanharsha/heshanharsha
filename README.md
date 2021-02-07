@@ -64,14 +64,12 @@
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
 - [Docker ගැන 0 to up සිංහලෙන්](https://medium.com/@heshanharsha/docker-%E0%B6%9C%E0%B7%90%E0%B6%B1-0-to-up-%E0%B7%83%E0%B7%92%E0%B6%82%E0%B7%84%E0%B6%BD%E0%B7%99%E0%B6%B1%E0%B7%8A-58745ad12815)
 - [Jenkins ගැන 0 to up සිංහලෙන්](https://medium.com/@heshanharsha/jenkins-%E0%B6%9C%E0%B7%90%E0%B6%B1-0-to-up-%E0%B7%83%E0%B7%92%E0%B6%82%E0%B7%84%E0%B6%BD%E0%B7%99%E0%B6%B1%E0%B7%8A-e796e14c41e)
 - [BLOCKCHAIN TECHNOLOGY](https://techzone1010.wordpress.com/2018/02/25/blockchain-technology/)
 - [cryptocurrency ගැන ඔබ දැනුවත්ද?](https://techzone1010.wordpress.com/2018/02/13/cryptocurrency-%e0%b6%9c%e0%b7%90%e0%b6%b1-%e0%b6%94%e0%b6%b6-%e0%b6%af%e0%b7%90%e0%b6%b1%e0%b7%94%e0%b7%80%e0%b6%ad%e0%b7%8a%e0%b6%af/)
-<!-- BLOG-POST-LIST:END -->
 
-<!-- ➡️ [more blog posts...](https://codestackr.com) -->
+
 
 ---
 
