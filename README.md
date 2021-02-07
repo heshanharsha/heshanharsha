@@ -8,8 +8,6 @@
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning everything 🤣
-<!-- - 👯 I’m looking to collaborate with other content creators -->
-<!-- - 🥅 2020 Goals: Contribute more to Open Source projects -->
 - 🥅 Associate DevOps Engineer @ Veracity Dev
 - ⚡ Computer Science Graduate from the University of Colombo (UCSC)
 <!-- ### Spotify Playing 🎧
