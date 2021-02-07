@@ -62,7 +62,7 @@
 
 <!-- --- -->
 
-### 📕 Latest Blog Posts
+### 📕 Blog Posts
 
 - [Docker ගැන 0 to up සිංහලෙන්](https://medium.com/@heshanharsha/docker-%E0%B6%9C%E0%B7%90%E0%B6%B1-0-to-up-%E0%B7%83%E0%B7%92%E0%B6%82%E0%B7%84%E0%B6%BD%E0%B7%99%E0%B6%B1%E0%B7%8A-58745ad12815)
 - [Jenkins ගැන 0 to up සිංහලෙන්](https://medium.com/@heshanharsha/jenkins-%E0%B6%9C%E0%B7%90%E0%B6%B1-0-to-up-%E0%B7%83%E0%B7%92%E0%B6%82%E0%B7%84%E0%B6%BD%E0%B7%99%E0%B6%B1%E0%B7%8A-e796e14c41e)
