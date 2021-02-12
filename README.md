@@ -72,6 +72,17 @@
 
 
 ---
+### 📕 Tech stack
+
+- EKS
+- Docker
+- GitHub workflows / GitLab CI/CD / Jenkins
+- Amazon Web Services
+- Nginx / Cloudflare
+
+
+
+---
 
 
 <details>
