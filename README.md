@@ -8,8 +8,8 @@
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning everything 🤣
-- 🥅 Associate DevOps Engineer @ Veracity Dev
-- ⚡ Computer Science Graduate from the University of Colombo (UCSC)
+- 💼 Associate DevOps Engineer @ Veracity Dev
+- 👨‍🎓 Computer Science Graduate from the University of Colombo (UCSC)
 <!-- ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
@@ -72,7 +72,7 @@
 
 
 ---
-### 📕 Tech stack
+### 👨‍💻 Tech stack
 
 - **EKS**
 - **Docker**
