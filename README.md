@@ -8,7 +8,7 @@
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning everything 🤣
-- 💼 Associate DevOps Engineer @ Veracity Dev
+- 💼 DevOps Engineer
 - 👨‍🎓 Computer Science Graduate from the University of Colombo (UCSC)
 <!-- ### Spotify Playing 🎧
 
